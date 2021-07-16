@@ -1,6 +1,6 @@
 # M3C Coursework 1: Tribal Competition Game
 
-Code submission for project 1 ‘Tribal Competition Game’ completed in the ‘High Performance Computing’ module as part of the BSc in Mathematics, Imperial College London 2016-2019 program.
+Project 1 ‘Tribal Competition Game’ completed for ‘High Performance Computing’ module.
 
 The code simulates a game consisting of an N x N grid where each cell represents a village. Within each iteration a village changes to either a ‘Mercenaries’ or ‘Collaborators’ based on randomly generated probabilities. The affiliation of a cell influences the affiliation of neighbouring cell. This code was used the simulate the game over multiple iterations and investigate into the convergence behaviours of the villages based on several input parameters. All code was written in Python.
 
